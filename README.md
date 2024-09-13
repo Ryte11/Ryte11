@@ -4,7 +4,7 @@
 
 <p align="justify">Estudiante del último año de la técnica de Software en el Politécnico ITLA, con conocimientos en desarrollo web, bases de datos, análisis de datos, y prototipado de aplicaciones. Buen desenvolvimiento al momento de comunicarme con personas. Participante en competencias nacionales de programación y talleres de tecnologías emergentes. Experiencia en ventas de dispositivos electrónicos, con un sólido rendimiento y conocimiento técnico.
 </p>
-<h2 align="center"><u>Lenguajes</u></h2>
+<h2 align="center"><u>Lenguajes/Herramientas</u></h2>
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -27,7 +27,15 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   </kbd>
-  <br>
+ 
+   <kbd>
+    <kbd>Herramientas</kbd>
+    <br>
+    <br>
+    <img width="30px" src="![image](https://github.com/user-attachments/assets/58c26302-bbb1-415f-aac7-99a1fcdc5551)" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
 </p>
 <div align=center>
   <a href="https://www.linkedin.com/in/luisangel-ramirez-b37a7b309/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
